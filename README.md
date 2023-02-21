@@ -9,7 +9,7 @@
 
   For DATA 602-04 (2271):
   - Thursday: 7:10 - 9:40 PM
-  - Room Interdisciplinary Life S 233
+  - Room Information Technology 241
   - When Online: Link will be shared via Blackboard
 
 ## Instructor Mehmet Sarica
